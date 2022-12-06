@@ -1,0 +1,7 @@
+RENCANA WEBSITE MA810
+
+- JavaScript
+ *ES6
+- PHP Framework
+- CSS 
+- HTML
