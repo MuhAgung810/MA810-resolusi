@@ -3,3 +3,4 @@ MA810 RESOLUSI
 - Belajar HTML, CSS, JS
 - Jadi web dev
 - Jadi web dev senior
+- Membuka toko 
