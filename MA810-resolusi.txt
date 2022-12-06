@@ -1,0 +1,4 @@
+MA810 RESOLUSI
+- Membuat website sederhana
+- Belajar HTML, CSS, JS
+- Jadi web dev
