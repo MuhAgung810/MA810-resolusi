@@ -2,6 +2,8 @@ RENCANA WEBSITE MA810
 
 - JavaScript
  *ES6
+- PHP Framework
+ *Laravel
 - Fundamental Data Structure
 - CSS 
 - HTML
